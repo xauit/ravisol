@@ -1,0 +1,4 @@
+[submodule "ravisol"]
+	path = ravisol
+	url = https://github.com/xauit/ravisol.git
+	branch = master
